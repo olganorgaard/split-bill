@@ -1,4 +1,4 @@
-<h1>🌟 Split the Bill application</h1>
+<h1>🤝💰  Split the Bill application</h1>
 <p>Split the Bill is a simple and intuitive app that helps groups easily divide expenses and calculate how much each person owes. Whether you're dining out, traveling, or sharing costs with friends, this app ensures everyone pays their fair share.</p>
 <br><h2> 🚀 Live Demo </h2>
 <p>Check it out live here: <a href="https://billsplit-app.glitch.me/">https://billsplit-app.glitch.me/</a> </p>
